@@ -5,11 +5,12 @@ using UnityEngine.UI;
 
 public class clikker : MonoBehaviour
 {
-    public int money;
+    public int sperm;
+   
 
-    public int addMoney = 1;
+    public int addSperm = 1;
 
-    public Text moneyText;
+    public Text spermText;
 
 
     // Start is called before the first frame update
@@ -21,11 +22,11 @@ public class clikker : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        moneyText.text = money.ToString();
+        spermText.text = sperm.ToString();
     }
     public void cliked()
     {
-        money += addMoney;
+        sperm += addSperm;
 
 
 
