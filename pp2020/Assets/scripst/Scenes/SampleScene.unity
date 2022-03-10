@@ -158,7 +158,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0029984, y: -13}
+  m_AnchoredPosition: {x: 59.386, y: 3.5496}
   m_SizeDelta: {x: 623.205, y: 562.34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &29751121
@@ -237,7 +237,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 28dcaccf2e1b41e409a17a092db7f837, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7a5e42d3fa776714db2e48365a6a4790, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -363,9 +363,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b65ed8fbf2b6c1a48b85149f8e8f45b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  money: 0
-  addMoney: 1
-  moneyText: {fileID: 1328191427}
+  sperm: 0
+  addSperm: 1
+  spermText: {fileID: 1328191427}
 --- !u!4 &224000862
 Transform:
   m_ObjectHideFlags: 0
@@ -917,7 +917,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0029755, y: -0.00098038}
+  m_AnchoredPosition: {x: -54, y: -0.0000038175}
   m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1137465110
@@ -2295,7 +2295,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 8d322bc10066c9f46a283b8788da03c8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
